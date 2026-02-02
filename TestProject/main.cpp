@@ -1,10 +1,10 @@
-#include <iostream>
+п»ї#include <iostream>
 using namespace std;
 
-// ГЛАВНАЯ!!! функция программы
+// Р“Р›РђР’РќРђРЇ!!! С„СѓРЅРєС†РёСЏ РїСЂРѕРіСЂР°РјРјС‹
 int main() {
-	cout << "тестинг..." << endl;
-	cout << "тестинг..." << endl;
+	cout << "С‚РµСЃС‚РёРЅРі..." << endl;
+	cout << "С‚РµСЃС‚РёРЅРі..." << endl;
 	cout << "testing..." << endl;
 	cout << "testing..." << endl;
 	return 0;
